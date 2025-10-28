@@ -161,3 +161,5 @@ MIT License — free for educational and research use.
 
 ### Note
 Insted of using pyaudioop or audioop, we use audioop-lts.
+$ pip install audioop-lts
+Works with python 3.13
