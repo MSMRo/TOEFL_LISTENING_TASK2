@@ -120,7 +120,6 @@ pydub==0.25.1
 ffmpeg
 ```
 
-Then go to [https://share.streamlit.io](https://share.streamlit.io), connect your GitHub repo, choose `app.py`, and deploy.
 
 ---
 
