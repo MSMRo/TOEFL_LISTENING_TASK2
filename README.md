@@ -157,3 +157,7 @@ MIT License — free for educational and research use.
 
 **Author:** *Moises Meza*
 **Context:** Academic tool for TOEFL Speaking Task 2 practice in Listening Section.
+
+
+### Note
+Insted of using pyaudioop or audioop, we use audioop-lts.
